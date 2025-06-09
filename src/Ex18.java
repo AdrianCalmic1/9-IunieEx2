@@ -4,9 +4,9 @@ public class Ex18 {
 
             int max = numere[0];
 
-            for (int numar : numere) {
-                if (numar < max) {
-                    max = numar;
+            for (int numar2 : numere) {
+                if (numar2 < max) {
+                    max = numar2;
                 }
             }
 
