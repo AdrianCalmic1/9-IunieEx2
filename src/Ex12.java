@@ -8,7 +8,7 @@ public class Ex12 {
         System.out.print("Introdu varsta: ");
         int varsta = scanner.nextInt();
 
-        if ( varsta <= 0 || varsta > 123 ) {
+        if ( varsta <= 0 || varsta > 122 ) {
             System.out.println("Decedat");
 
         } else if ( varsta < 15 ) {
