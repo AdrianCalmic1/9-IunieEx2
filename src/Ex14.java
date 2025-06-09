@@ -7,7 +7,7 @@ public class Ex14 {
                 System.out.println(i);
                 //continue; // voi sare peste 14
             }
-            //System.out.println(i);
+            System.out.println(i);
         }
     }
 }
