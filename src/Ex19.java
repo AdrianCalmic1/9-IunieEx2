@@ -24,17 +24,6 @@ public class Ex19 {
                     System.out.println("Litera nu este gasita");
             }
         }
-        /*
-        if (input.equals("R")) {
-            System.out.println("Rosu");
-        } else if (input.equals("G")) {
-            System.out.println("Galben");
-        } else if (input.equals("V")) {
-            System.out.println("Verde");
-        } else {
-            System.out.println("Litera nu este gasita");
-        }
-        *?
-         */
+
     }
 }
